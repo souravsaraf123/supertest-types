@@ -1,0 +1,27 @@
+{
+  "private": false,
+  "name": "supertest-types-custom",
+  "description": "TypeScript definitions for supertest with generic body",
+  "version": "0.0.1",
+  "projects": [
+    "https://github.com/visionmedia/supertest"
+  ],
+  "dependencies": {
+    "@types/methods": "^1.1.4",
+    "@types/superagent": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "*",
+    "@types/supertest": "*"
+  },
+  "owners": [
+    {
+      "name": "Sourav Saraf",
+      "githubUsername": "souravsaraf123"
+    },
+    {
+      "name": "Anurag Roy",
+      "githubUsername": "anurag-roy"
+    }
+  ]
+}
